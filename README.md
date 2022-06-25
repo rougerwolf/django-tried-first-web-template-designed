@@ -1,0 +1,1 @@
+# django-tried-first-web-template-designed
